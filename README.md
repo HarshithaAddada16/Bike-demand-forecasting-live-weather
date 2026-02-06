@@ -5,7 +5,7 @@ End-to-end machine learning project forecasting hourly bike rental demand using 
 
 An end-to-end machine learning forecasting project that predicts hourly bike rental demand using historical usage data, engineered time-series features, and real-time weather data integration.
 The solution is designed to be production-ready, time-aware, and deployment focused.
-**
+
 ## 🔧 Tech Stack
 
 Python · Pandas · NumPy · Scikit-learn · XGBoost · LightGBM · CatBoost · Optuna · Matplotlib · Seaborn · Live Weather API
